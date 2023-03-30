@@ -1,0 +1,3 @@
+[submodule "projectFormat"]
+	path = projectFormat
+	url = https://github.com/SpinnerX/projectFormat
