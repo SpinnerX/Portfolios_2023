@@ -1,5 +1,5 @@
 # There's four main needs for ASM in this day and age
-
+```
 1) Optimization
 2) Embedded systems
 3) Compilers
@@ -27,9 +27,9 @@ Unlike our other assembly projects, this one will be written in C or C++
 
 If no errors are found in the source code, you will then assemble the source
 code emitted, and produce an a.out!
-
+```
 # Basic Basic v8.0 Language Specification
-
+```
 General Error Rule:
 0. Any line that does not conform to the rules below will result in your
 compiler outputting "Syntax Error on Line X" (where X is the line of code) and
@@ -129,3 +129,4 @@ X = 4
 X = 3
 X = 2
 X = 1
+```
