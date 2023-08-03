@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(AlgorithmVisualizer VERSION 0.1.0 LANGUAGES C CXX)
+project(AlgorithmVisualizer_2.0 VERSION 0.1.0 LANGUAGES C CXX)
 
 set(CMAKE_CXX_FLAGS "-Wall -Wextra")
-set(CMAKE_CXX_DEBUG "-g")
+set(CMAKE_CXX_DEBUG "-g -fsanitize=address")
 set(CMAKE_CXX_RELEASE "-O3")
 set(CMAKE_CXX_STANDARD 20)
 
