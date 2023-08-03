@@ -2,4 +2,4 @@ build
 .vscode
 dependencies
 CMakeLists.txt
-
+.DS_Store
