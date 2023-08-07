@@ -1,4 +1,4 @@
-## Portfolios
+# Portfolios
 
 ### ProjectFormat
 This project is just to allow testing for a format library I was currently in developing as there are things broken with it. As well the formatCpp
@@ -17,7 +17,8 @@ Using ARM32 and C++ with a bit of C, I did a basic implementation of a compiler 
 Using what we learned also about embedded systems and CPU's, implemented a basic compiler to generate the assembly code for us. Which essentially parses a command and generates the assembly and using that assembly to help us generate the output from C++ to ARM32, to output.
 
 ### Algorithm Visualizer
-`Description`
+
+### Description
 Visualizing and simulating graph theory algorithms. Algorithms visualization and ranges are from beginnner to intermediate to advance. Involving complex graphs. In the first phase we implement visualization of graph theory algorithms in a maze we create to see how the algorithms find the respective path from starting to the ending src nodes.
 
 https://github.com/SpinnerX/Portfolios_2023/assets/56617292/9051dba4-8384-4463-9a59-5496ad3178bf
